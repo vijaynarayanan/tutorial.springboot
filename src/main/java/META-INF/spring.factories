@@ -1,0 +1,2 @@
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+com.learn.tutorial.springboot.chapter4.failureanalyzer.UrlNotAccessibleFailureAnalyzer
